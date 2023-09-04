@@ -53,7 +53,7 @@ A outra maneira de configurar sua aplicação é usando o [gerador de código no
 
 ## Disclaimer
 
-Muito cuidado com seu token do GitHub. Nunca faça commit desse token, não envie-o a ninguém e não o mostre em qualquer lugar.
+Muito cuidado com seu token do GitHub. **Nunca faça commit desse token, não envie-o a ninguém e não o mostre em qualquer lugar.**
 
 Para saber como eu criei essa aplicação, leia o arquivo `comoEuFiz.md` aqui neste repositório.
 
