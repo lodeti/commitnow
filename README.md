@@ -32,7 +32,7 @@ Você pode fazer isso de duas maneiras. A primeira é configurando essas variáv
 
 - `nome`: Pelo seu nome.
 - `cidade`: Pela sua cidade (ou de onde você queira saber o clima em tempo real).
-- `owner`: Nome do proprietário do repositório no GitHub.
+- `owner`: Pelo seu nome de usuário no GitHub.
 - `repo`: Nome do repositório no GitHub.
 - `branch`: Nome da branch onde o commit será feito.
 - `token`: Token de acesso pessoal do GitHub para autenticação.
