@@ -44,7 +44,7 @@ A segunda maneira é acessando aqui neste [link](https://github.com/lodeti/commi
 
 Por fim, a terceira e mais fácil maneira de configurar sua aplicação é usando o [gerador de código no site do projeto](https://github.com/lodeti/commitnow). Fique tranquilo, ele é seguro e não armazena nenhuma informação.
 
-**Para finalizar:** Salve o arquivo. Abra e teste sua funcionalidade e links. Caso tudo esteja em ordem, sugiro que a defina como página inicial do seu navegador e ainda fixe a aba para facilitar o acesso durante o dia.
+**Para finalizar:** Salve o arquivo. Abra e teste sua funcionalidade e links. Caso tudo esteja em ordem, sugiro que defina como página inicial do seu navegador e ainda fixe a aba para facilitar o acesso durante o dia.
 
 ## Tecnologias Utilizadas
 
