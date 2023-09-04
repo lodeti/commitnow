@@ -37,6 +37,7 @@ Você pode fazer isso de três maneiras. A primeira é configurando essas variá
 - `branch`: Nome da branch onde o commit será feito.
 - `token`: Token de acesso pessoal do GitHub para autenticação.
 - `arquivo`: OPCIONAL. Substitua pelo arquivo que queira realizar o commit. Caso não mude essa variável, o app irá criar um arquivo automaticamente.
+- `apiKey`: Chave de acesso da API OpenWeather (Current Weather Data). Você consegue esta chave gratuitamente aqui [neste link](https://openweathermap.org/api).
 
 Depois, vá até o arquivo `index.html` e substitua as tags `<a>` pelos links que você mais acessa no seu dia.
 
