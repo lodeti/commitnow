@@ -30,6 +30,8 @@ Antes de usar o CommitNow, é necessário personalizar o seu código para que su
 
 Você pode fazer isso de duas maneiras. A primeira é configurando essas variáveis manualmente. Para isso vá no arquivo `script.js` e altere as seguintes variáveis:
 
+- `nome`: Pelo seu nome.
+- `cidade`: Pela sua cidade (ou de onde você queira saber o clima em tempo real).
 - `owner`: Nome do proprietário do repositório no GitHub.
 - `repo`: Nome do repositório no GitHub.
 - `branch`: Nome da branch onde o commit será feito.
