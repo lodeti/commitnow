@@ -4,11 +4,11 @@ O CommitNow é uma aplicação web que simplifica o processo de fazer commits em
 
 ## Funcionalidades
 
-- Oferece uma dica técnica para profissionais de diversas áreas da tecnologia.
 - Permite inserir manualmente uma mensagem de commit (ou usar a dica técnica gerada automaticamente, caso preferir).
+- Oferece uma dica técnica para profissionais de diversas áreas da tecnologia.
+- Centraliza em uma única página os links que você mais acessa.
 - Mostra informações de clima atual para a cidade que você escolher.
 - Apresenta as últimas taxas de câmbio entre o dólar e o euro em relação ao real.
-- Centraliza em uma única página os links que você mais acessa.
 
 ## Como Usar
 
@@ -47,7 +47,7 @@ A outra maneira de configurar sua aplicação é usando o [gerador de código no
 - CSS
 - JavaScript
 - API do GitHub
-- API Frases Dev
+- [API Frases Dev](https://github.com/lodeti/api-frases-dev)
 - API de clima OpenWeatherMap
 - API de câmbio AwesomeAPI
 
